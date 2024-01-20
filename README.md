@@ -23,4 +23,4 @@ A simple password generator web application created using HTML, CSS, and JavaScr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/sohail-jamadar/password-generator.git
